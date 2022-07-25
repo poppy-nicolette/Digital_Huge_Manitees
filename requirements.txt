@@ -1,4 +1,4 @@
-name: OCR_with_pytesseract
+name: requirements.txt
 channels:
   - conda-forge
   - defaults
