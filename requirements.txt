@@ -1,7 +1,4 @@
-name: requirements.txt
-channels:
-  - conda-forge
-  - defaults
+
 dependencies:
   - appnope=0.1.2=py38hecd8cb5_1001
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
