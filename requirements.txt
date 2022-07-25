@@ -1,0 +1,6 @@
+dependencies:
+pytesseract
+tesseract
+pdf2image
+nltk
+seaborn
