@@ -1,5 +1,9 @@
 # Digital_Huge_Manitees
 OCR and topic modelling for digital humanities
+There's two parts: 
+- getting text from digital files and 
+- finding topics within those texts
+
 ## Fill this in with:
 ### introduction
 - [ ] What is this?
