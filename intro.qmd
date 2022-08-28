@@ -1,0 +1,6 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth_literate_1984 for additional discussion of literate programming.
+See @mongeon_journal_2016 for more info about something. 

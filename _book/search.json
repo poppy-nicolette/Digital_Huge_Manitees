@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "First Pwop Wok Book",
+    "section": "",
+    "text": "This is a Quarto book.\nMany changes, well, one, have been made here.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming. See Mongeon and Paul-Hus (2016) for more info about something.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\nMongeon, Philippe, and Adèle Paul-Hus. 2016. “The Journal Coverage of Web of Science and Scopus: A Comparative Analysis.” Scientometrics 106 (1): 213–28. https://doi.org/10.1007/s11192-015-1765-5."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.”\nComput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\nMongeon, Philippe, and Adèle Paul-Hus. 2016. “The Journal Coverage\nof Web of Science and Scopus: A\nComparative Analysis.” Scientometrics 106 (1): 213–28.\nhttps://doi.org/10.1007/s11192-015-1765-5."
+  }
+]
