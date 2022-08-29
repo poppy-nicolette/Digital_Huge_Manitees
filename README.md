@@ -1,4 +1,6 @@
 # Digital_Huge_Manitees
+## this is old and outdated. The current working version is here:https://github.com/Digital-Huge-Manitees/Digital_Huge_Manitees
+
 OCR and topic modelling for digital humanities
 There's two parts: 
 - getting text from digital files and 
