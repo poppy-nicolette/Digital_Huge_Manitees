@@ -1,7 +1,0 @@
-# Preface {.unnumbered style="color: magenta"}
-
-This is a Quarto book.
-
-Many changes, well, one, have been made here.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
